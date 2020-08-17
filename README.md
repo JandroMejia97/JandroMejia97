@@ -1,5 +1,3 @@
-<img align="right" src="https://i.ibb.co/4YFRmcX/codigo.png" alt="codigo" width="200">
-
 # Hi there 👋, I'm Alejandro Mejía
 My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvador 🇸🇻.
 - 🤓 I'm currently studying Computer Engineering at the National University of La Plata in 🇦🇷.
