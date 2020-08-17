@@ -1,16 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://i.ibb.co/4YFRmcX/codigo.png" alt="codigo" width="200">
 
-<!--
-**JandroMejia97/JandroMejia97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Alejandro Mejía
+My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvador 🇸🇻.
+- 🤓 I'm currently studying Computer Engineering at the National University of La Plata in 🇦🇷.
+- 💻 I'm the leader of the Backend and Fronted Dev Team in ["Calcula tu Menú"](https://calculatumenu.com).
+- 🌱 I'm currently learning data science at [Platzi](https://platzi.com/@JandroMejia97).
+- 💬 You can ask me about the Django and Angular frameworks and other things.
+- 📫 You can contact me at my [email](mailto:alejandromejia2013.27@gmail.com).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub: JandroMejia97](https://img.shields.io/github/followers/JandroMejia97?style=social)](https://github.com/JandroMejia97)
+[![Twitter: JandroMejia97](https://img.shields.io/twitter/follow/JandroMejia97?style=social)](https://twitter.com/JandroMejia97)
