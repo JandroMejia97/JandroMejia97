@@ -13,15 +13,20 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
 [![Linkedin: jandromejia97](https://img.shields.io/badge/-jandromejia-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jandromejia97/)
 [![Facebook: JandroMejia97](https://img.shields.io/badge/-JandroMejia-white?logo=Facebook&logoColor=blue)](https://www.facebook.com/JandroMejia97/)
 
-## Languages and Tools
+## 👊 Github Stats
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=JandroMejia97)](https://github.com/JandroMejia97/github-readme-stats)
+
+## 🦾 Languages and Tools
+
 <p style="color: #2a698c !important;">
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/django.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/angular.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/ionic.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="Django" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/googlecloud.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/django.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/angular.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/ionic.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/googlecloud.svg" alt="Django" height="40px" />
 </p>
