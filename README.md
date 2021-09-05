@@ -8,6 +8,8 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
 - 💬 You can ask me about the Django and Angular frameworks and other things.
 - 📫 You can contact me at my [email](mailto:alejandromejia2013.27@gmail.com).
 
+> You can currently find me working on [bitbucket](https://bitbucket.org/JandroMejia97Euda/).
+
 [![GitHub: JandroMejia97](https://img.shields.io/github/followers/JandroMejia97?style=social)](https://github.com/JandroMejia97)
 [![Twitter: JandroMejia97](https://img.shields.io/twitter/follow/JandroMejia97?style=social)](https://twitter.com/JandroMejia97)
 [![Linkedin: jandromejia97](https://img.shields.io/badge/-jandromejia-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jandromejia97/)
@@ -30,5 +32,3 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
   <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="Django" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/googlecloud.svg" alt="Django" height="40px" />
 </p>
-
-You can currently find me working on [bitbucket](https://bitbucket.org/JandroMejia97Euda/).
