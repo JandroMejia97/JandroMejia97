@@ -12,8 +12,8 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
 
 [![GitHub: JandroMejia97](https://img.shields.io/github/followers/JandroMejia97?style=social)](https://github.com/JandroMejia97)
 [![Twitter: JandroMejia97](https://img.shields.io/twitter/follow/JandroMejia97?style=social)](https://twitter.com/JandroMejia97)
-[![Linkedin: jandromejia97](https://img.shields.io/badge/-jandromejia-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jandromejia97/)
-[![Facebook: JandroMejia97](https://img.shields.io/badge/-JandroMejia-white?logo=Facebook&logoColor=blue)](https://www.facebook.com/JandroMejia97/)
+[![Linkedin: jandromejia97](https://img.shields.io/badge/-jandromejia97-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jandromejia97/)
+[![Facebook: JandroMejia97](https://img.shields.io/badge/-JandroMejia97-white?logo=Facebook&logoColor=blue)](https://www.facebook.com/JandroMejia97/)
 
 ## 👊 Github Stats
 
