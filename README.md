@@ -3,12 +3,10 @@
 
 My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvador 🇸🇻.
 - 🤓 I'm currently studying Computer Engineering at the National University of La Plata in 🇦🇷.
-- 💻 I'm the leader of the Backend and Fronted Dev Team in ["Calcula tu Menú"](https://calculatumenu.com).
-- 🌱 I'm currently learning data science at [Platzi](https://platzi.com/@JandroMejia97).
-- 💬 You can ask me about the Django and Angular frameworks and other things.
+- 🚀 I'm on the way of entrepreneurship, trying to found my own company **(HIRIT)** with my partner and friend 💪.
+- 💻 I'm the leader of the Backend and Fronted Dev Team at HIRIT.
+- 💬 You can ask me about the Django, NestJS, Spring Boot and Angular frameworks and other things.
 - 📫 You can contact me at my [email](mailto:alejandromejia2013.27@gmail.com).
-
-> You can currently find me working on [bitbucket](https://bitbucket.org/JandroMejia97Euda/).
 
 [![GitHub: JandroMejia97](https://img.shields.io/github/followers/JandroMejia97?style=social)](https://github.com/JandroMejia97)
 [![Twitter: JandroMejia97](https://img.shields.io/twitter/follow/JandroMejia97?style=social)](https://twitter.com/JandroMejia97)
@@ -24,11 +22,12 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
 <p style="color: #2a698c !important;">
   <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/django.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/angular.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/ionic.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="Django" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/googlecloud.svg" alt="Django" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/nestjs.svg" alt="NestJS" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/angular.svg" alt="Angular" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/ionic.svg" alt="Ionic" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud" height="40px" />
 </p>
