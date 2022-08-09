@@ -8,7 +8,7 @@ My full name is Carlos Alejandro Hernández Mejía 😁 and I am from El Salvado
 - 💬 You can ask me about the Django, NestJS, Spring Boot and Angular frameworks and other things.
 - 📫 You can contact me at my [email](mailto:alejandromejia2013.27@gmail.com).
 
-> **Do you want to read my posts?** Find them at this [link](https://jandromejia97.notion.site/1d1b300262c44023a274e2442bcc0f81?v=6c5be9108d3e434aa2d5caf4c9c579cd)
+> **Do you want to read my posts?** Find them at this [link](https://www.notion.so/jandromejia97/1d1b300262c44023a274e2442bcc0f81?v=966f74cdf56445509f0513b372c8ab59)
 
 [![GitHub: JandroMejia97](https://img.shields.io/github/followers/JandroMejia97?style=social)](https://github.com/JandroMejia97)
 [![Twitter: JandroMejia97](https://img.shields.io/twitter/follow/JandroMejia97?style=social)](https://twitter.com/JandroMejia97)
